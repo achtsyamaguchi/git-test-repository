@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+body {
+  background-color: black;
+  padding: 50px;
+}
+
+.main-title {
+  display: flex;
+  justify-content: center; 
+  margin-bottom: 40px;
+}
+h1 {
+  background-color: #ecd71b;
+  width: 250px;
+  padding: 0 10px;
+  font-size: 50px;
+}
+p ,li {
+  color: #fff;
+  line-height: 1.5;
+}
+.main-txt {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+.main-inner {
+  max-width: 700px;
+  margin: 0 auto;
+}
+ol {
+ margin-left: 40px
+}
+strong {
+  color: red;
+} 
+
+b {
+  color: #333;
+  background-color: #ecd71b;
+} 
+
